@@ -1,3 +1,5 @@
+# Example for pytest
+
 def add( a, b ):
     return a + b
 
