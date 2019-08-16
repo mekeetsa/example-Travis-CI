@@ -10,5 +10,5 @@ def test_add ():
 def subtract( a, b ):
     return a + b    # <--- fix this in step 8
 
-def test subtract ():
-    assert subtract( 3, 3) == -1
+def test_subtract ():
+    assert subtract( 2, 3) == -1
